@@ -1,0 +1,7 @@
+.DS_Store
+Thumbs.db
+vendor/
+bind*
+output
+windows.syso
+go-astilectron-sandbox

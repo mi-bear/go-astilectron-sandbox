@@ -1,0 +1,11 @@
+{
+  "app_name": "kuma",
+  "icon_path_darwin": "resources/kuma.icns",
+  "icon_path_linux": "resources/kuma.png",
+  "icon_path_windows": "resources/kuma.ico",
+  "environments": [
+    {"arch": "amd64", "os": "linux"},
+    {"arch": "amd64", "os": "darwin"},
+    {"arch": "386", "os": "windows"}
+  ]
+}

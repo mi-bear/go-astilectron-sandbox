@@ -1,0 +1,12 @@
+* {
+    box-sizing:  border-box;
+}
+
+html, body {
+  background-color: #fff;
+  color: #333;
+  height: 100%;
+  margin: 0;
+  width: 100%;
+  font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", YuGothic, "ヒラギノ角ゴ ProN W3", Hiragino Kaku Gothic ProN, Arial, "メイリオ", Meiryo, sans-serif;
+}
